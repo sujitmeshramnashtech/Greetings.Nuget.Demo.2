@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+      <RepositoryUrl>https://github.com/sujitmeshramnashtech/Greetings.Nuget.Demo.git</RepositoryUrl>
+  
+  </PropertyGroup>
+
+</Project>
